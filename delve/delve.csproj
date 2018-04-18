@@ -122,6 +122,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Resources\迷你地城%28DelveTheDiceGame%29.pdf" />
+    <None Include="Resources\迷你地城新人物表.pdf" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\delve-DelveTheDiceGameStartingAdventure.jpg" />
